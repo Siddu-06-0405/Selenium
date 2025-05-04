@@ -28,3 +28,9 @@ Install the Selenium WebDriver package from the npm registry:
 ```bash
 npm install selenium-webdriver
 ```
+
+## 📦 Step 6: Run the index.js file
+
+```bash
+node index
+```
